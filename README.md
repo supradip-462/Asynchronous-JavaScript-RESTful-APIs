@@ -4,7 +4,6 @@
 
 A sleek, responsive, and feature-packed Weather Dashboard built with **Vanilla HTML5, CSS3 (Modern Glassmorphism & Custom Properties), and Asynchronous JavaScript (ES6+ / Fetch API / Async-Await)**.
 
-![SkyPulse Weather Dashboard](Foth_Project_Task.png)
 
 ---
 
